@@ -1,0 +1,7 @@
+
+.idea
+.git
+.venv
+/__pycache__
+/yellow_tripdata_2019.zip
+/Datasets
